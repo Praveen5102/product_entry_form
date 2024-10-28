@@ -56,8 +56,9 @@ Follow these steps to run the app on your local machine:
 4. A success message will appear upon successful submission.
 
 
-## Screen Shots
+## Screen Shot
 
+![Sample Output](https://github.com/Praveen5102/product_entry_form/blob/main/assests/sample%20app%20pic.jpeg)
 
 
 ## Contributing
