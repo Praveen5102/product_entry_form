@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290681773993",
+    "project_id": "productentryform",
+    "storage_bucket": "productentryform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290681773993:android:1711021856789205572eb8",
+        "android_client_info": {
+          "package_name": "com.example.product_entry_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpMunZR_yCPbswaA8aOelvf1nle7Yl-5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
